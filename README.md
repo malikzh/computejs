@@ -18,6 +18,9 @@ An expression calculator for JavaScript
 - Variables support
 - Unary operators support
 
+## Demo
+
+You can try it [on JSFiddle](https://jsfiddle.net/malikzh/bLgsv3uz/)
 
 ## How it use
 
@@ -27,7 +30,7 @@ Just call a function:
 Compute(expression, functions, variables);
 ```
 
-### Simple use
+### Simple usage
 
 ```js
 let result = Compute('5 * (3 + 4) + 3');
