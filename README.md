@@ -6,11 +6,12 @@ An expression calculator for JavaScript
 ## Features
 
 - Basic math operators:
-    - `+` - addition
-    - `-` - subtraction
-    - `*` - multltiplication
-    - `/` - divide
-    - `^` - power (right associative)
+    - `+` - Addition
+    - `-` - Subtraction
+    - `*` - Multltiplication
+    - `/` - Division
+    - `^` - Power (right associative)
+    - `%` - Modulo division
 - Brackets support
 - Operators precedence support
 - Custom functions support
