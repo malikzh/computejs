@@ -62,3 +62,7 @@ console.log(result); // displays 1024
 ## License
 
 This project licensed with [MIT](LICENSE) license
+
+---
+
+Made with ❤️
